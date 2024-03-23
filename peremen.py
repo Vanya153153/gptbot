@@ -9,7 +9,7 @@ MAX_SESSIONS = 3 # макс. количество сессий у пользов
 MAX_TOKENS_IN_SESSION = 1000 # макс. количество токенов за сессию пользователя
 MAX_MODEL_TOKENS = 100
 GPT_MODEL = 'yandexgpt'
-API = "6754279303:AAFcNoE1ZvLHgsFRe1w6Z7CiYyha5JlX_GY"
+API = ""
 MODEL_TEMPERATURE = 0.6
 
 exist_options = {
