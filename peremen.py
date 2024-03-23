@@ -1,7 +1,6 @@
-YA_TOKEN = """t1.9euelZqVyZnKks-Rzo6SnJCJl5LNle3rnpWak86VyJDIl5qJnJyRz42VlZPl8_doKARQ-e9ZdgMl_d3z9yhXAVD571l2AyX9zef1656VmpiMzM-NzZ2ZlMeQjZeMz46Q7_zF656Vmp
-iMzM-NzZ2ZlMeQjZeMz46QveuelZrMk8iYxsrPip6Ky5KdmpLGnLXehpzRnJCSj4qLmtGLmdKckJKPioua0pKai56bnoue0oye.vcHapFf3m5W4Ss-eNkdfCrUCrzc4uVgdpYJLuZkxe81rBIbuQz0sZfyFpyY
-BodEb9DAVSYis_LbtfloeRY2mDg"""
-
+YA_TOKEN = """t1.9euelZqKjpCLz8iXnMuVz4vMlZmVke3rnpWak86VyJDIl5qJnJyRz42VlZPl8_dLQwNQ-e9PbiAf_d3z9wtyAFD5709uIB_9zef1656VmseVj5jKlZmKnJ2Lj56ci8me7_zF656Vms
+eVj5jKlZmKnJ2Lj56ci8meveuelZqcjY2VnovOyMbPxpTNjZqKjLXehpzRnJCSj4qLmtGLmdKckJKPioua0pKai56bnoue0oye.UhGOWcaqS1ivB2_-RGqo6bMuVoFdsqTvy3rtGA_lQREWU3do2GTL6mLjLcK
+hZY-WKaMmrrVBDbiKZhMa84eWCQ"""
 FOLDER_ID = """b1gde3s455bjvigr5njg"""
 
 MAX_PROJECT_TOKENS = 15000 # макс. количество токенов на весь проект
@@ -29,3 +28,4 @@ SYSTEM_PROMPT = (
 
 CONTINUE_STORY = 'Продолжи сюжет в 1-3 предложения и оставь интригу. Не пиши никакой пояснительный текст от себя'
 END_STORY = 'Напиши завершение истории c неожиданной развязкой. Не пиши никакой пояснительный текст от себя'
+
