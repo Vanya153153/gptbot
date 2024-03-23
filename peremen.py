@@ -13,7 +13,11 @@ GPT_MODEL = 'yandexgpt'
 API = "6754279303:AAFcNoE1ZvLHgsFRe1w6Z7CiYyha5JlX_GY"
 MODEL_TEMPERATURE = 0.6
 
-cur_sen = {}
+exist_options = {
+    'genres': ["Детектив", 'Мистика', "Фентези"],
+    'characters': ["Ибрагим (Дальнобойщик)", 'Патрик', "Рик", "Бетмен"],
+    'settings': ["Cyberpunk 2077", 'Тёмное фентази', "Постапокалипсис", "Преступный город"]
+}
 
 SYSTEM_PROMPT = (
     "Ты пишешь историю вместе с человеком. "
