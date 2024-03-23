@@ -1,15 +1,13 @@
-YA_TOKEN = """t1.9euelZqKjpCLz8iXnMuVz4vMlZmVke3rnpWak86VyJDIl5qJnJyRz42VlZPl8_dLQwNQ-e9PbiAf_d3z9wtyAFD5709uIB_9zef1656VmseVj5jKlZmKnJ2Lj56ci8me7_zF656Vms
-eVj5jKlZmKnJ2Lj56ci8meveuelZqcjY2VnovOyMbPxpTNjZqKjLXehpzRnJCSj4qLmtGLmdKckJKPioua0pKai56bnoue0oye.UhGOWcaqS1ivB2_-RGqo6bMuVoFdsqTvy3rtGA_lQREWU3do2GTL6mLjLcK
-hZY-WKaMmrrVBDbiKZhMa84eWCQ"""
-FOLDER_ID = """b1gde3s455bjvigr5njg"""
+YA_TOKEN = """"""
+FOLDER_ID = """"""
 
 MAX_PROJECT_TOKENS = 15000 # макс. количество токенов на весь проект
 MAX_USERS = 5 # макс. количество пользователей на весь проект
 MAX_SESSIONS = 3 # макс. количество сессий у пользователя
 MAX_TOKENS_IN_SESSION = 1000 # макс. количество токенов за сессию пользователя
 MAX_MODEL_TOKENS = 100
-GPT_MODEL = 'yandexgpt'
-API = "6754279303:AAFcNoE1ZvLHgsFRe1w6Z7CiYyha5JlX_GY"
+GPT_MODEL = ''
+API = ""
 MODEL_TEMPERATURE = 0.6
 
 exist_options = {
