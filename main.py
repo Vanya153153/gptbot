@@ -213,7 +213,8 @@ def begin(message):
                      reply_markup=create_keyboard(['/write_scen']))
 
 
-bot.polling()
+if __name__ == '__main__':
+    bot.infinity_polling()
 
 
 
