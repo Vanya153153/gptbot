@@ -7,9 +7,6 @@ bot = telebot.TeleBot(API)
 
 current_options = {}
 
-
-
-
 def create_keyboard(options):
     buttons = []
     for opt in options:
