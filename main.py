@@ -1,17 +1,12 @@
 # Чек-лист оценки проекта:
 import telebot
-from gpt import create_promt, ask_gpt, count_tokens_in_dialogue
+from gpt import *
 from peremen import *
-
 
 bot = telebot.TeleBot(API)
 
 current_options = {}
-exist_options = {
-    'genres': ["Детектив", 'Мистика', "Фентези"],
-    'characters': ["Ибрагим (Дальнобойщик)", 'Патрик', "Рик", "Бетмен"],
-    'settings': ["Cyberpunk 2077", 'Тёмное фентази', "Постапокалипсис", "Преступный город"]
-}
+
 
 
 
